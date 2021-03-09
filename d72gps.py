@@ -1,4 +1,4 @@
-#dump GPS log data out of Henwood TH-D72 radio
+#dump GPS log data out of Kenwood TH-D72 radio
 #pip3 install pyserial gpxpy progressbar
 import time
 import serial
